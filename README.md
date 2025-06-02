@@ -8,6 +8,12 @@ A clean and configurable job selector for ESX Legacy, using [OX_lib](https://git
 - [PREVIEW](https://www.youtube.com/watch?v=HlS7fpvyo9w)
 
 ---
+## ⚠️ Important Notice
+
+- **❌ DO NOT RESELL**  
+  This script is released **for free** to support the FiveM community.  
+  Reselling, reuploading, or distributing this script for commercial purposes is strictly prohibited without the developer’s permission.
+---
 
 ## 🚀 Features
 - OX_lib Context Menu for smooth job selection
