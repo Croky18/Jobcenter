@@ -5,7 +5,7 @@ A clean and configurable job selector for ESX Legacy, using [OX_lib](https://git
 - 📍 Marker-based interaction (optional)
 - 🗺️ Customizable blip
 - 🧾 Fully adjustable via `config.lua`
-- [PRIVIEW](https://www.youtube.com/watch?v=HlS7fpvyo9w)
+- [PREVIEW](https://www.youtube.com/watch?v=HlS7fpvyo9w)
 
 ---
 
