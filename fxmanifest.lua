@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Croky18 | made for sibeGoHosting'
+author 'Croky18'
 description 'ESX Legacy Job Selector met NPC en OX_lib'
 version '1.0.0'
 
